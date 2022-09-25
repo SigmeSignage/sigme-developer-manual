@@ -1,0 +1,27 @@
+[
+  {
+    "title": "イントロダクション",
+    "href": "index.html",
+    "containsToc": ["intro"]
+  },{
+    "title": "CMSのインストール",
+    "href": "cms-installation-guides.html",
+    "containsToc": ["cms_install"]
+  },{
+    "title": "CMSの設定",
+    "href": "cms-configuration-options.html",
+    "containsToc": ["cms_config"]
+  },{
+    "title": "CMSのアップアップグレード",
+    "href": "upgrading-the-cms.html",
+    "containsToc": ["cms_upgrade"]
+  },{
+    "title": "Windowsプレイヤーのインストール",
+    "href": "windows-installation.html",
+    "containsToc": ["windows_install"]
+  },{
+    "title": "Androidプレイヤーのインストール",
+    "href": "Android_install.html",
+    "containsToc": ["android_install"]
+  }
+]

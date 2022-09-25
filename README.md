@@ -1,2 +1,2 @@
-# sigme-developer-manual
-Manual and Tips for Sigme develpers
+# Sigme Creator Guide
+How to create Sigme Digital signage contents for creators

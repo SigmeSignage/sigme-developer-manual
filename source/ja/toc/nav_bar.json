@@ -1,27 +1,31 @@
 [
   {
-    "title": "イントロダクション",
+    "title": "開発者マニュアルについて",
     "href": "index.html",
-    "containsToc": ["intro"]
+    "containsToc": ["about"]
   },{
-    "title": "CMSのインストール",
-    "href": "cms-installation-guides.html",
-    "containsToc": ["cms_install"]
+    "title": "ウェジェット",
+    "href": "widgets.html",
+    "containsToc": ["widgets"]
   },{
-    "title": "CMSの設定",
+    "title": "プレイヤー制御",
     "href": "cms-configuration-options.html",
-    "containsToc": ["cms_config"]
+    "containsToc": ["player"]
   },{
-    "title": "CMSのアップアップグレード",
+    "title": "xiboとの統合",
     "href": "upgrading-the-cms.html",
-    "containsToc": ["cms_upgrade"]
+    "containsToc": ["integrate"]
   },{
-    "title": "Windowsプレイヤーのインストール",
-    "href": "windows-installation.html",
-    "containsToc": ["windows_install"]
+    "title": "テーマ",
+    "href": "themes.html",
+    "containsToc": ["themes_toc"]
   },{
-    "title": "Androidプレイヤーのインストール",
+    "title": "Xiboの拡張",
     "href": "Android_install.html",
-    "containsToc": ["android_install"]
+    "containsToc": ["extend"]
+  },{
+    "title": "プレイヤーの開発",
+    "href": "Android_install.html",
+    "containsToc": ["create"]
   }
 ]

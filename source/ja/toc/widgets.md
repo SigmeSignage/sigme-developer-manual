@@ -1,0 +1,2 @@
+- [ウェジェット](widgets.html)
+- [組み込み](embedded.html)
